@@ -1,0 +1,2 @@
+# ComposeTypeSafeNavigation
+Jetpack Compose + Navigation 
